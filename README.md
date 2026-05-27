@@ -5,7 +5,7 @@
 A cutting-edge credit card fraud detection system leveraging three deep learning models: Multilayer Perceptron (MLP), Autoencoder (AE), and Variational Autoencoder (VAE). This system addresses the challenges of highly imbalanced datasets and evolving fraud patterns by combining supervised classification and unsupervised anomaly detection. Deployed via FastAPI for real-time predictions and includes an interactive dashboard.
 
 
-![alt text](<multi-model deep learning.PNG>)
+
 
 ## Table of Contents
 - [Features](#features)
