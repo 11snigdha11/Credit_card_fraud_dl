@@ -1,0 +1,7 @@
+{
+  "ae_threshold": 16.953105926513672,
+  "vae_threshold": 17.105817794799805,
+  "mlp_threshold": 0.5,
+  "calculation_method": "95th percentile of reconstruction errors",
+  "save_timestamp": "2025-08-26T21:53:25.183005"
+}
